@@ -1,2 +1,2 @@
 # pomodoro_time
-This app will allow you to control your time and increase your efficiency
+This app will help you to manage with your passwords and etc.
